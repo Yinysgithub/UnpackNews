@@ -1,0 +1,8 @@
+config/
+logs/
+.DS_Store
+subscribers/
+prompts/
+CLAUDE.md
+tmp/
+.claude/
